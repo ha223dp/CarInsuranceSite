@@ -14,7 +14,7 @@ A sleek and responsive car rental website built using HTML, CSS, JavaScript, and
 - **HTML5**
 - **CSS3 / SASS**
 - **Vanilla JavaScript (ES6+)**
-- **External APIs** (e.g. Google Maps, fake car data APIs)
+- **External APIs
 
 ## 🚀 Getting Started
 
