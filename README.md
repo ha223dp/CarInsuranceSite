@@ -21,5 +21,5 @@ A sleek and responsive car rental website built using HTML, CSS, JavaScript, and
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/ha223dp/CarRentalSite.git
-   cd CarRentalSite
+   git clone https://github.com/ha223dp/CarInsuranceSite.git
+   cd CarInsuranceSite
